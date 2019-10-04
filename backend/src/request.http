@@ -1,0 +1,19 @@
+###
+
+POST http://localhost:3333/sessions
+
+content-type: application/json
+
+{
+    "email": "a.cleef.souza@gmail.com"
+}
+
+###
+
+POST http://localhost:3333/spots
+
+content-type: application/json
+
+{
+
+}
